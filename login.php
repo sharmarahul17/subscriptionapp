@@ -8,7 +8,7 @@
 <body>
 
 	<div class="header">
-		<h2>Sign in to your Account</h2>
+		<h2>Login in to your Account</h2>
 	</div>
 	
 	<form method="post" action="login.php">
